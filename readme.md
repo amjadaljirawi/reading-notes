@@ -20,6 +20,7 @@ _You **can** combine them_
 * Item 2
   * Item 2a
   * Item 2b
-  ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://placebear.com/g/200/300)
+  
+# ![GitHub Logo](https://picsum.photos/200/300)
+# ![animal](https://placebear.com/g/200/300)
 
